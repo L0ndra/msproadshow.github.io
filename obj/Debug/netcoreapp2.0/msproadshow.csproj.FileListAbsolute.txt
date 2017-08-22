@@ -1,0 +1,10 @@
+/Users/illialubenets/msproadshow/bin/Debug/netcoreapp2.0/msproadshow.deps.json
+/Users/illialubenets/msproadshow/bin/Debug/netcoreapp2.0/msproadshow.runtimeconfig.json
+/Users/illialubenets/msproadshow/bin/Debug/netcoreapp2.0/msproadshow.runtimeconfig.dev.json
+/Users/illialubenets/msproadshow/bin/Debug/netcoreapp2.0/msproadshow.dll
+/Users/illialubenets/msproadshow/bin/Debug/netcoreapp2.0/msproadshow.pdb
+/Users/illialubenets/msproadshow/obj/Debug/netcoreapp2.0/msproadshow.csproj.CoreCompileInputs.cache
+/Users/illialubenets/msproadshow/obj/Debug/netcoreapp2.0/msproadshow.AssemblyInfoInputs.cache
+/Users/illialubenets/msproadshow/obj/Debug/netcoreapp2.0/msproadshow.AssemblyInfo.cs
+/Users/illialubenets/msproadshow/obj/Debug/netcoreapp2.0/msproadshow.dll
+/Users/illialubenets/msproadshow/obj/Debug/netcoreapp2.0/msproadshow.pdb
